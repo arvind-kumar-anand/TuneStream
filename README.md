@@ -16,13 +16,12 @@
 
 - **HTML**: For structuring the content.
 - **CSS**: For styling and layout, using modern CSS techniques such as Flexbox and responsive design.
-- **JavaScript**: For adding interactivity and handling user events (if applicable).
 - **Font Awesome**: For incorporating scalable vector icons.
 - **Google Fonts**: Specifically, Montserrat for typography.
 
 ## Installation
 
-To run the WeatherWise Music Application locally, follow these steps:
+To run the Tune Stream Music Application locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
